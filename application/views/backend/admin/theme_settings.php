@@ -10,7 +10,7 @@ $uninstalled_themes = $this->crud_model->get_uninstalled_themes();
     <div class="card">
       <div class="card-body">
         <h4 class="page-title"> <i class="mdi mdi-apple-keyboard-command title_icon"></i> <?php echo get_phrase('theme_settings'); ?>
-          <a href="https://academy-lms.com/themes" target="_blank" class="btn btn-outline-primary btn-rounded alignToTitle ml-3"> <i class="mdi mdi-cart"></i> <?php echo get_phrase('buy_new_theme'); ?></a>
+          <a href="https://expozy.com" target="_blank" class="btn btn-outline-primary btn-rounded alignToTitle ml-3"> <i class="mdi mdi-cart"></i> <?php echo get_phrase('buy_new_theme'); ?></a>
           <a href="javascript:;" onclick="showAjaxModal('<?php echo site_url('admin/upload_theme') ?>', '<?php echo get_phrase('upload_your_theme_file'); ?>');" class="btn btn-outline-primary btn-rounded alignToTitle"> <i class="mdi mdi-upload"></i> <?php echo get_phrase('upload_your_theme_file'); ?></a>
         </h4>
       </div> <!-- end card body-->

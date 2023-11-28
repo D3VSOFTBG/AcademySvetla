@@ -61,7 +61,7 @@
 		<div class="alert alert-info" role="alert">
 			<h4 class="alert-heading"><?php echo get_phrase('attention'); ?>!</h4>
             <p class="mb-0"><?php echo get_phrase('the_auto_checkmark_is_only_applicable_for_video_lessons'); ?>.</p>
-            <a href="https://creativeitem.com/docs/academy-lms/drip-content-settings" target="_blank"><?php echo get_phrase('learn_more'); ?></a>
+            <a href="https://expozy.com/drip-content-settings" target="_blank"><?php echo get_phrase('learn_more'); ?></a>
         </div>
 	</div>
 </div>

@@ -3,11 +3,7 @@ if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
 /*
- *  @author   : Creativeitem
- *  date    : 7 October, 2018
  *  Academy
- *  http://codecanyon.net/user/Creativeitem
- *  http://support.creativeitem.com
  */
 
 class Data_center extends CI_Controller
@@ -27,7 +23,7 @@ class Data_center extends CI_Controller
         if ($this->session->userdata('admin_login') != 1)
             redirect(site_url('login'), 'refresh');
 
-        if(strpos(base_url(), 'demo.creativeitem.com')){
+        if(strpos(base_url(), 'https://expozy.com')){
             $this->session->set_flashdata('error_message', "This feature is not available in the demo platform.");
             redirect(site_url('admin/data_center'), 'refresh');
         }

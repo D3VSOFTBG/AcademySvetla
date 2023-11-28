@@ -8,11 +8,11 @@
     			<!-- panel body -->
     			<div class="panel-body" style="font-size: 14px;">
             <p style="font-size: 14px;">
-              Welcome to Academy-LMS Installation. You will need to know the following items before
+              Welcome to Expozy Installation. You will need to know the following items before
               proceeding.
             </p>
             <ol>
-              <li>Codecanyon purchase code</li>
+              <li>Expozy purchase code</li>
               <li>Database Name</li>
               <li>Database Username</li>
               <li>Database Password</li>

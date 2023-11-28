@@ -107,7 +107,7 @@
                             <h6 class="text-overflow m-0"><?php echo get_phrase('help_center'); ?></h6>
                         </div>
 
-                        <a href="https://creativeitem.com/docs/academy-lms" target="_blank" class="dropdown-item notify-item">
+                        <a href="https://expozy.com" target="_blank" class="dropdown-item notify-item">
                             <i class="mdi mdi-file-document-box-outline"></i>
                             <span><?php echo get_phrase('read_documentation'); ?></span>
                         </a>
@@ -117,22 +117,22 @@
                             <span><?php echo get_phrase('watch_video_tutorial'); ?></span>
                         </a>
 
-                        <a href="https://support.creativeitem.com" target="_blank" class="dropdown-item notify-item">
+                        <a href="https://expozy.com" target="_blank" class="dropdown-item notify-item">
                             <i class="far fa-life-ring"></i>
                             <span><?php echo get_phrase('get_customer_support'); ?></span>
                         </a>
 
-                        <a href="https://support.creativeitem.com" target="_blank" class="dropdown-item notify-item">
+                        <a href="https://expozy.com" target="_blank" class="dropdown-item notify-item">
                             <i class="mdi mdi-arrow-right-bold-circle-outline"></i>
                             <span><?php echo get_phrase('order_customization'); ?></span>
                         </a>
 
-                        <a href="https://support.creativeitem.com" target="_blank" class="dropdown-item notify-item">
+                        <a href="https://expozy.com" target="_blank" class="dropdown-item notify-item">
                             <i class="mdi mdi-tooltip-plus-outline"></i>
                             <span><?php echo get_phrase('request_a_new_feature'); ?></span>
                         </a>
 
-                        <a href="https://codecanyon.net/collections/shared/9236f1b2a5de784f383c9ecd37b2f7b43dbfc225a5f96bc3ef32ac7ab397d392" target="_blank" class="dropdown-item notify-item">
+                        <a href="https://expozy.com" target="_blank" class="dropdown-item notify-item">
                             <i class=" mdi mdi-open-in-new"></i>
                             <span><?php echo get_phrase('browse_addons'); ?></span>
                         </a>

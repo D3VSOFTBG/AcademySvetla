@@ -5,10 +5,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="description" content="Creativeitem Software Installation" />
-	<meta name="author" content="Creativeitem" />
+	<meta name="description" content="Expozy Software Installation" />
+	<meta name="author" content="Expozy" />
 
-	<title>Installation | Academy-LMS</title>
+	<title>Installation | AcademySvetla</title>
 	<?php include 'styles.php'; ?>
 </head>
 <body class="page-body">

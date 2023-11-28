@@ -26,7 +26,7 @@
                 <p>
                   <i class="mdi mdi-square"></i> <?php echo get_phrase('check_update'); ?>
                   <span class="float-right">
-                      <a href="https://codecanyon.net/user/creativeitem/portfolio"
+                      <a href="https://expozy.com"
                         target="_blank" style="color: #343a40;">
                           <i class="mdi mdi-telegram"></i>
                             <?php echo get_phrase('check_update'); ?>
@@ -63,7 +63,7 @@
                   <span class="float-right">
                     <?php if (strtolower($application_details['purchase_code_status']) == 'expired'): ?>
                       <span class="badge badge-danger-lighten float-right mt-1"><?php echo get_phrase($application_details['purchase_code_status']); ?></span>
-                      <a href="https://codecanyon.net/item/academy-course-based-learning-management-system/22703468" target="_blank" class="btn btn-success float-right mr-2 py-0"><?php echo get_phrase('renew_support'); ?></a>
+                      <a href="https://expozy.com" target="_blank" class="btn btn-success float-right mr-2 py-0"><?php echo get_phrase('renew_support'); ?></a>
                     <?php elseif (strtolower($application_details['purchase_code_status']) == 'valid'): ?>
                       <span class="badge badge-success-lighten"><?php echo get_phrase($application_details['purchase_code_status']); ?></span>
                     <?php else: ?>
@@ -90,7 +90,7 @@
                 </p>
                 <p style="margin-top: 8px;">
                   <i class="mdi mdi-square"></i> <?php echo get_phrase('get_customer_support'); ?>
-                  <span class="float-right"><a href="http://support.creativeitem.com" target="_blank" style="color: #343a40;"> <i class="mdi mdi-telegram"></i> <?php echo get_phrase('customer_support'); ?> </a> </span>
+                  <span class="float-right"><a href="https://expozy.com" target="_blank" style="color: #343a40;"> <i class="mdi mdi-telegram"></i> <?php echo get_phrase('customer_support'); ?> </a> </span>
                 </p>
               </div>
             </div>

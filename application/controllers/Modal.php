@@ -1,10 +1,9 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /*
- *  @author   : Creativeitem
+ *  @author   : AcademySvetla
  *  date    : 14 september, 2017
  *  Ekattor School Management System Pro
- *  http://codecanyon.net/user/Creativeitem
- *  http://support.creativeitem.com
+
  */
 class Modal extends CI_Controller {
 

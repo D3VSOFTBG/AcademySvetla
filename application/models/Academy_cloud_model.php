@@ -19,7 +19,7 @@ class Academy_cloud_model extends CI_Model
       $curl = curl_init();
 
       curl_setopt_array($curl, array(
-        CURLOPT_URL => 'http://video.creativeitem.com/api/videos',
+        CURLOPT_URL => 'https://expozy.com',
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_ENCODING => '',
         CURLOPT_MAXREDIRS => 10,
@@ -73,7 +73,7 @@ class Academy_cloud_model extends CI_Model
       $curl = curl_init();
 
       curl_setopt_array($curl, array(
-        CURLOPT_URL => 'http://video.creativeitem.com/api/video/update/'.$video_id,
+        CURLOPT_URL => 'https://expozy.com'.$video_id,
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_ENCODING => '',
         CURLOPT_MAXREDIRS => 10,
@@ -124,7 +124,7 @@ class Academy_cloud_model extends CI_Model
       $curl = curl_init();
 
       curl_setopt_array($curl, array(
-        CURLOPT_URL => 'http://video.creativeitem.com/api/videos',
+        CURLOPT_URL => 'https://expozy.com',
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_ENCODING => '',
         CURLOPT_MAXREDIRS => 10,
@@ -155,7 +155,7 @@ class Academy_cloud_model extends CI_Model
         $curl = curl_init();
 
         curl_setopt_array($curl, array(
-          CURLOPT_URL => 'http://video.creativeitem.com/api/videos/'.$video_id,
+          CURLOPT_URL => 'https://expozy.com/'.$video_id,
           CURLOPT_RETURNTRANSFER => true,
           CURLOPT_ENCODING => '',
           CURLOPT_MAXREDIRS => 10,
@@ -186,7 +186,7 @@ class Academy_cloud_model extends CI_Model
         $curl = curl_init();
 
         curl_setopt_array($curl, array(
-          CURLOPT_URL => 'http://video.creativeitem.com/api/videos/'.$video_id,
+          CURLOPT_URL => 'https://expozy.com/'.$video_id,
           CURLOPT_RETURNTRANSFER => true,
           CURLOPT_ENCODING => '',
           CURLOPT_MAXREDIRS => 10,
@@ -212,7 +212,7 @@ class Academy_cloud_model extends CI_Model
       $curl = curl_init();
 
       curl_setopt_array($curl, array(
-        CURLOPT_URL => 'http://video.creativeitem.com/api/users',
+        CURLOPT_URL => 'https://expozy.com',
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_ENCODING => '',
         CURLOPT_MAXREDIRS => 10,

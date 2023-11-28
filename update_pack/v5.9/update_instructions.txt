@@ -9,7 +9,7 @@ Let's proceed,
 
 - Go to system settings from settings menu in admin panel
 - Move to the section 'Update Product' on that page
-- Upload the file 'update_5.9.zip' which is located at update_pack > v5.9 folder inside your copy of Academy-LMS downloaded from Codecanyon.
+- Upload the file 'update_5.9.zip' which is located at update_pack > v5.9 folder inside your copy of AcademySvetla downloaded from Expozy.
 - Hit the button 'Update'.
 - If you encounter any layout related issues, clear your browser cache. Press the following shortcut keys to clear your browser cache.
 	a. For Windows: Ctrl + Shift + R

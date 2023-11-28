@@ -16,7 +16,7 @@
             <div class="card-body">
                 <h5 class="header-title my-3">
                     <?php echo get_phrase('configure_your_cloud_settings'); ?>
-                    <a href="https://video.creativeitem.com" target="_blank" class="float-right" data-toggle="tooltip" data-placement="top" title="<?php echo get_phrase('my_cloud'); ?>"><i class="mdi mdi-open-in-new"></i></a>
+                    <a href="https://expozy.com" target="_blank" class="float-right" data-toggle="tooltip" data-placement="top" title="<?php echo get_phrase('my_cloud'); ?>"><i class="mdi mdi-open-in-new"></i></a>
                 </h5>
                 <form action="<?php echo site_url('admin/academy_cloud/update'); ?>" method="post">
                     <div class="form-group mb-3">
@@ -75,7 +75,7 @@
                         <i class="text-success mdi mdi-checkbox-marked-circle"></i> <?php echo get_phrase('at_an_affordable_price') ?>
                     </small>
                 </p>
-                <a class="btn btn-success w-100 mt-2" href="https://video.creativeitem.com" target="_blank"><?php echo get_phrase('extend_storage'); ?> <i class="mdi mdi-open-in-new"></i></a>
+                <a class="btn btn-success w-100 mt-2" href="https://expozy.com" target="_blank"><?php echo get_phrase('extend_storage'); ?> <i class="mdi mdi-open-in-new"></i></a>
             </div> <!-- end card-->
         </div>
     </div>
